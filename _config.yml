@@ -7,7 +7,7 @@ permalink:        pretty
 # Setup
 title:            Xun Zhong
 tagline:          'An Upcoming Programmer'
-description:      'An upcoming <a>software engineer</a>'
+description:      'An upcoming <br><a>software engineer</a></br>'
 url:              http://hyde.getpoole.com
 baseurl:          /hyde/
 
